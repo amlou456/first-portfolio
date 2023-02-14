@@ -800,8 +800,9 @@ footer .links .reddit:hover{
 
 footer .love{
     text-align: center;
-    background-image:url(../Images/landing.PNG);
     color: black;
+    border-top: 1px solid #ddd;
+    background-color: #313131;
 }
 
 footer .love h3{
